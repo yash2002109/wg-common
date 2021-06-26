@@ -45,6 +45,16 @@ Individuals engage in activities in open source projects at various times of the
 Individuals engage in activities in open source projects at various times of the day. This metric is aimed at determining the dates and times of when individual activities were completed. The data can be used to probabilistically estimate where on earth contributions come from in cases where the time zone is not UTC. ![Date Time Chart 4](images/activity-dates-and-times_4.png)
 
 
+### Visualizations-4
+
+![Date Time Chart 1](images/activity-dates-and-times_1.png)
+
+![Date Time Chart 2](images/activity-dates-and-times_2.png)
+
+![Date Time Chart 3](images/activity-dates-and-times_3.png)
+
+![Date Time Chart 4](images/activity-dates-and-times_4.png)
+
 ### Tools Providing Metric
 
 [GrimoireLab](https://chaoss.github.io/grimoirelab/)
